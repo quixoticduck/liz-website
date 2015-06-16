@@ -1,0 +1,31 @@
+/*
+Theme Name: Linen PRO Child Theme
+Theme URI: http://thethemefoundry.com/linen/
+Description: Child theme for customizing Linen PRO.
+Version: 1.0
+Author: The Theme Foundry
+Author URI: http://thethemefoundry.com/
+Template: linen_pro
+*/
+
+/* Import Stylesheets, don't remove these.
+-----------------------------------------------------------*/
+@import url("../linen_pro/stylesheets/master.css");
+
+/* Required Wordpress Classes, don't remove these.
+-----------------------------------------------------------*/
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignleft { float: left; }
+.alignright { float: right; }
+
+/* Make all custom CSS changes BELOW this line
+-----------------------------------------------------------*/
+/* Example: Change the sidebar background to blue:
+#sidebar {
+	background: blue;
+}
+*/
